@@ -6,7 +6,7 @@ Ext.data.JsonP.callback1({
 {'title' : 'Athletics', 'url' : 'http://www.polskietrendy.pl/scores/athletics.json', 'icon' : 'default.png' },
 {'title' : 'Badminton', 'url' : 'http://www.polskietrendy.pl/scores/badminton.json', 'icon' : 'default.png' },
 {'title' : 'Basketball', 'url' : 'http://www.polskietrendy.pl/scores/basketball.json', 'icon' : 'default.png' },
-{'title' : 'Beach Volleyball', 'url' : 'http://www.polskietrendy.pl/scores/beachvolleyball.json', 'icon' : 'default.png' },
+{'title' : 'BeachVolleyball', 'url' : 'http://www.polskietrendy.pl/scores/beachvolleyball.json', 'icon' : 'default.png' },
 {'title' : 'Boxing', 'url' : 'http://www.polskietrendy.pl/scores/Boxing.json', 'icon' : 'default.png' },
 {'title' : 'Canoe Slalom', 'url' : 'http://www.polskietrendy.pl/scores/canoeslalom.json', 'icon' : 'default.png' },
 {'title' : 'Canoe Sprint', 'url' : 'http://www.polskietrendy.pl/scores/canoesprint.json', 'icon' : 'default.png' },
