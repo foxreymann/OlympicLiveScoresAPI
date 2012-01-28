@@ -1,0 +1,44 @@
+'Ext.util.JSONP.callback({
+    'games': [
+            
+{'title' : 'Live Scores', 'url' : 'http://www.pita.it/soccer/resultScores-live.json', 'icon' : 'default.png' }
+{'title' : 'Archery', 'url' : 'http://www.polskietrendy.pl/scores/archery.json', 'icon' : 'default.png' }
+{'title' : 'Athletics', 'url' : 'http://www.polskietrendy.pl/scores/athletics.json', 'icon' : 'default.png' }
+{'title' : 'Badminton', 'url' : 'http://www.polskietrendy.pl/scores/badminton.json', 'icon' : 'default.png' }
+{'title' : 'Basketball', 'url' : 'http://www.polskietrendy.pl/scores/basketball.json', 'icon' : 'default.png' }
+{'title' : 'Beach Volleyball', 'url' : 'http://www.polskietrendy.pl/scores/beachvolleyball.json', 'icon' : 'default.png' }
+{'title' : 'Boxing', 'url' : 'http://www.polskietrendy.pl/scores/Boxing.json', 'icon' : 'default.png' }
+{'title' : 'Canoe Slalom', 'url' : 'http://www.polskietrendy.pl/scores/canoeslalom.json', 'icon' : 'default.png' }
+{'title' : 'Canoe Sprint', 'url' : 'http://www.polskietrendy.pl/scores/canoesprint.json', 'icon' : 'default.png' }
+{'title' : 'Cycling – BMX', 'url' : 'http://www.polskietrendy.pl/scores/cyclingbmx.json', 'icon' : 'default.png' }
+{'title' : 'Cycling – Mountain Bike', 'url' : 'http://www.polskietrendy.pl/scores/cyclingmountainbike.json', 'icon' : 'default.png' }
+{'title' : 'Cycling – Road', 'url' : 'http://www.polskietrendy.pl/scores/cyclingroad.json', 'icon' : 'default.png' }
+{'title' : 'Cycling – Track', 'url' : 'http://www.polskietrendy.pl/scores/cyclingtrack.json', 'icon' : 'default.png' }
+{'title' : 'Diving', 'url' : 'http://www.polskietrendy.pl/scores/Diving.json', 'icon' : 'default.png' }
+{'title' : 'Equestrian – Dressage', 'url' : 'http://www.polskietrendy.pl/scores/equestriandressage.json', 'icon' : 'default.png' }
+{'title' : 'Equestrian – Jumping', 'url' : 'http://www.polskietrendy.pl/scores/equestrianjumping.json', 'icon' : 'default.png' }
+{'title' : 'Fencing', 'url' : 'http://www.polskietrendy.pl/scores/fencing.json', 'icon' : 'default.png' }
+{'title' : 'Football', 'url' : 'http://www.polskietrendy.pl/scores/football.json', 'icon' : 'default.png' }
+{'title' : 'Gymnastics – Artistic', 'url' : 'http://www.polskietrendy.pl/scores/gymnasticsartistic.json', 'icon' : 'default.png' }
+{'title' : 'Gymnastics – Rhythmic', 'url' : 'http://www.polskietrendy.pl/scores/gymnasticsrhythmic.json', 'icon' : 'default.png' }
+{'title' : 'Gymnastics – Trampoline', 'url' : 'http://www.polskietrendy.pl/scores/gymnasticstrampoline.json', 'icon' : 'default.png' }
+{'title' : 'Handball', 'url' : 'http://www.polskietrendy.pl/scores/handball.json', 'icon' : 'default.png' }
+{'title' : 'Hockey', 'url' : 'http://www.polskietrendy.pl/scores/hockey.json', 'icon' : 'default.png' }
+{'title' : 'Judo', 'url' : 'http://www.polskietrendy.pl/scores/judo.json', 'icon' : 'default.png' }
+{'title' : 'Modern Pentathlon', 'url' : 'http://www.polskietrendy.pl/scores/modernpentathlon.json', 'icon' : 'default.png' }
+{'title' : 'Rowing', 'url' : 'http://www.polskietrendy.pl/scores/rowing.json', 'icon' : 'default.png' }
+{'title' : 'Sailing', 'url' : 'http://www.polskietrendy.pl/scores/sailing.json', 'icon' : 'default.png' }
+{'title' : 'Shooting', 'url' : 'http://www.polskietrendy.pl/scores/shooting.json', 'icon' : 'default.png' }
+{'title' : 'Swimming', 'url' : 'http://www.polskietrendy.pl/scores/swimming.json', 'icon' : 'default.png' }
+{'title' : 'Synchronised Swimming', 'url' : 'http://www.polskietrendy.pl/scores/synchronisedswimming.json', 'icon' : 'default.png' }
+{'title' : 'Table Tennis', 'url' : 'http://www.polskietrendy.pl/scores/tabletennis.json', 'icon' : 'default.png' }
+{'title' : 'Taekwondo', 'url' : 'http://www.polskietrendy.pl/scores/taekwondo.json', 'icon' : 'default.png' }
+{'title' : 'Tennis', 'url' : 'http://www.polskietrendy.pl/scores/tennis.json', 'icon' : 'default.png' }
+{'title' : 'Triathlon', 'url' : 'http://www.polskietrendy.pl/scores/triathlon.json', 'icon' : 'default.png' }
+{'title' : 'Volleyball', 'url' : 'http://www.polskietrendy.pl/scores/volleyball.json', 'icon' : 'default.png' }
+{'title' : 'Water Polo', 'url' : 'http://www.polskietrendy.pl/scores/waterpolo.json', 'icon' : 'default.png' }
+{'title' : 'Weightlifting', 'url' : 'http://www.polskietrendy.pl/scores/weightlifting.json', 'icon' : 'default.png' }
+{'title' : 'Wrestling', 'url' : 'http://www.polskietrendy.pl/scores/wrestling.json', 'icon' : 'default.png' }
+
+    ] 
+})
