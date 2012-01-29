@@ -1,4 +1,4 @@
-Ext.data.JsonP.callback1({
+Ext.util.JSONP.callback({
     'games': [
             
 {'title' : 'Live Scores', 'url' : 'http://www.pita.it/soccer/resultScores-live.json', 'icon' : 'default.png' },
