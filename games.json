@@ -2,10 +2,10 @@ Ext.util.JSONP.callback({
     'games': [
             
 {'title' : 'Live Scores', 'url' : 'http://www.pita.it/soccer/resultScores-live.json', 'icon' : 'default.png' },
-{'title' : 'Archery', 'url' : 'http://www.polskietrendy.pl/scores/archery.json', 'icon' : 'default.png' },
-{'title' : 'Athletics', 'url' : 'http://www.polskietrendy.pl/scores/athletics.json', 'icon' : 'default.png' },
-{'title' : 'Badminton', 'url' : 'http://www.polskietrendy.pl/scores/badminton.json', 'icon' : 'default.png' },
-{'title' : 'Basketball', 'url' : 'http://www.polskietrendy.pl/scores/basketball.json', 'icon' : 'default.png' },
+{'title' : 'Archery', 'url' : 'http://www.polskietrendy.pl/scores/archery.json', 'icon' : 'archery.png' },
+{'title' : 'Athletics', 'url' : 'http://www.polskietrendy.pl/scores/athletics.json', 'icon' : 'athletics.png' },
+{'title' : 'Badminton', 'url' : 'http://www.polskietrendy.pl/scores/badminton.json', 'icon' : 'badminton.png' },
+{'title' : 'Basketball', 'url' : 'http://www.polskietrendy.pl/scores/basketball.json', 'icon' : 'basketball.png' },
 {'title' : 'BeachVolleyball', 'url' : 'http://www.polskietrendy.pl/scores/beachvolleyball.json', 'icon' : 'default.png' },
 {'title' : 'Boxing', 'url' : 'http://www.polskietrendy.pl/scores/Boxing.json', 'icon' : 'default.png' },
 {'title' : 'Canoe Slalom', 'url' : 'http://www.polskietrendy.pl/scores/canoeslalom.json', 'icon' : 'default.png' },
